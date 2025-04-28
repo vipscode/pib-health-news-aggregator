@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "National Programme for Prevention and Control of Non-Communicable Diseases",
+        "date": "2025-04-19",
+        "summary": "The Ministry announced additional funding of ₹450 crores for the National Programme for Prevention and Control of Non-Communicable Diseases, focusing on diabetes, cardiovascular diseases, and cancer screening in rural areas.",
+        "content": "The Union Minister for Health and Family Welfare today announced an additional allocation of ₹450 crores for strengthening the National Programme for Prevention and Control of Non-Communicable Diseases. The enhanced funding will focus on expanding screening services for diabetes, hypertension, cardiovascular diseases, and three common cancers (oral, breast, and cervical) in rural and underserved areas. The initiative aims to establish 500 new NCD clinics at the primary healthcare level and deploy mobile screening units in 200 districts nationwide. Early detection and management of NCDs remain a priority under the National Health Mission.",
+        "category": "Non Communicable Diseases",
+        "url": "https://pib.gov.in/health/ncd-program-expansion"
+    },
+    {
+        "id": 2,
+        "title": "Launch of National Digital Health Blueprint 2.0",
+        "date": "2025-04-17",
+        "summary": "The Ministry unveiled the updated National Digital Health Blueprint 2.0, expanding on the Ayushman Bharat Digital Mission with enhanced interoperability standards and privacy frameworks.",
+        "content": "The Ministry of Health and Family Welfare today unveiled the National Digital Health Blueprint 2.0, marking a significant advancement in India's digital health ecosystem. Building on the foundation of the Ayushman Bharat Digital Mission, the updated blueprint introduces enhanced interoperability standards, stronger data privacy frameworks, and expanded digital health infrastructure. Key components include a unified health interface, nationwide expansion of Health Facility Registry, Healthcare Professionals Registry, and Personal Health Records systems. The blueprint emphasizes secure health data exchange protocols and outlines the path for AI integration in healthcare delivery and management. Special focus has been placed on ensuring digital health solutions reach rural and remote areas.",
+        "category": "Digital Health",
+        "url": "https://pib.gov.in/health/digital-health-blueprint"
+    },
+    {
+        "id": 3,
+        "title": "Amendments to the Drugs and Cosmetics Act",
+        "date": "2025-04-15",
+        "summary": "Cabinet approves amendments to the Drugs and Cosmetics Act to strengthen regulation of pharmaceutical manufacturing and introduce stricter quality control measures.",
+        "content": "The Union Cabinet has approved significant amendments to the Drugs and Cosmetics Act, aimed at strengthening the regulatory framework for pharmaceutical manufacturing in India. The amendments introduce more stringent quality control measures, enhanced penalties for manufacturing and selling substandard drugs, and modernized inspection protocols. Notably, the revised Act includes specific provisions for regulating online pharmacies, addressing a long-standing regulatory gap. The amendments also incorporate international best practices in pharmaceutical regulation and aim to boost India's position as a global pharmaceutical manufacturing hub while ensuring high-quality, affordable medicines for consumers. The Ministry of Health and Family Welfare emphasized that these changes will help maintain India's reputation as the 'pharmacy of the world' while ensuring patient safety.",
+        "category": "Pharmaceuticals",
+        "url": "https://pib.gov.in/health/drugs-act-amendments"
+    },
+    {
+        "id": 4,
+        "title": "India's First Indigenous Artificial Heart Receives Regulatory Approval",
+        "date": "2025-04-12",
+        "summary": "DCGI grants approval to India's first locally developed artificial heart device, marking a breakthrough in cardiac care technology and reducing import dependency.",
+        "content": "In a landmark development for Indian medical technology, the Drug Controller General of India (DCGI) has granted regulatory approval to the country's first indigenously developed artificial heart device. Developed through a public-private partnership between the Indian Institute of Technology (IIT) Delhi, All India Institute of Medical Sciences (AIIMS), and MedTech startup HeartWare India, the device represents a breakthrough in cardiac care technology. The artificial heart, named 'Hridaya', is designed as a ventricular assist device and offers a cost-effective alternative to imported devices, potentially reducing costs by up to 60%. Clinical trials demonstrated a 92% success rate in patients with end-stage heart failure. The Ministry of Health and Family Welfare highlighted this achievement as a significant step toward self-reliance in advanced medical technologies and better accessibility to life-saving devices.",
+        "category": "Medical Technologies",
+        "url": "https://pib.gov.in/health/indigenous-artificial-heart"
+    },
+    {
+        "id": 5,
+        "title": "National Health Authority Signs MoU with International Health Organizations",
+        "date": "2025-04-10",
+        "summary": "The National Health Authority signs memorandums of understanding with WHO and Gates Foundation to strengthen health systems and expand universal health coverage.",
+        "content": "The National Health Authority (NHA) today signed important Memorandums of Understanding (MoUs) with the World Health Organization (WHO) and the Bill & Melinda Gates Foundation to strengthen health systems and expand universal health coverage in India. The collaboration will focus on technical assistance for health financing reforms, capacity building for healthcare providers, and implementation research to improve service delivery models. Special attention will be given to reaching underserved populations and optimizing the Ayushman Bharat PM-JAY scheme. The partnerships will also support knowledge exchange on best practices in universal health coverage from global experiences. The Minister of Health and Family Welfare emphasized that these international collaborations will accelerate India's progress toward achieving comprehensive healthcare access for all citizens.",
+        "category": "Others",
+        "url": "https://pib.gov.in/health/nha-international-mou"
+    }
+]
